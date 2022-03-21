@@ -1,4 +1,4 @@
-#EXTM3U 
+# EXTM3U
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC HD
 http://51.89.98.62:8080/vitorhugo/123456/512
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC SD
@@ -15,8 +15,18 @@ http://51.89.98.62:8080/vitorhugo/123456/130
 http://51.89.98.62:8080/vitorhugo/123456/49702
 #EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 1 HD
 http://51.89.98.62:8080/vitorhugo/123456/49701
-#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 1 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 1 SD
-http://51.89.98.62:8080/vitorhugo/123456/50011
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Sala" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Sala
+http://51.89.98.62:8080/vitorhugo/123456/50413
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Quarto Lollipop" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Quarto Lollipop
+http://51.89.98.62:8080/vitorhugo/123456/50412
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Quarto Grunge" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Quarto Grunge
+http://51.89.98.62:8080/vitorhugo/123456/50411
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Jardim" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Jardim
+http://51.89.98.62:8080/vitorhugo/123456/50409
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Confessionário" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Confessionário
+http://51.89.98.62:8080/vitorhugo/123456/50408
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Banheiro" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Banheiro
+http://51.89.98.62:8080/vitorhugo/123456/50407
 #EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 2 HD
 http://51.89.98.62:8080/vitorhugo/123456/50014
 #EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 2 SD
@@ -359,7 +369,7 @@ http://51.89.98.62:8080/vitorhugo/123456/11
 http://51.89.98.62:8080/vitorhugo/123456/49775
 #EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais | [XXX] ADULTO",Venus HD
 http://51.89.98.62:8080/vitorhugo/123456/10
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel FHD
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel HD+
 http://51.89.98.62:8080/vitorhugo/123456/20232
 #EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel HD
 http://51.89.98.62:8080/vitorhugo/123456/4
