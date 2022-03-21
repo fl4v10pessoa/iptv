@@ -1,4 +1,4 @@
-# EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC HD
 http://51.89.98.62:8080/vitorhugo/123456/512
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC SD
