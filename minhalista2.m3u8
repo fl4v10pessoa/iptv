@@ -1,0 +1,379 @@
+#EXTM3U  url-tvg = “https://www.dropbox.com/s/hhartc7a8kab442/guia.xml?dl=1"
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC HD
+http://51.89.98.62:8080/vitorhugo/123456/512
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC SD
+http://51.89.98.62:8080/vitorhugo/123456/233
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD
+http://51.89.98.62:8080/vitorhugo/123456/20234
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN HD
+http://51.89.98.62:8080/vitorhugo/123456/535
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN SD
+http://51.89.98.62:8080/vitorhugo/123456/227
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band SP HD
+http://51.89.98.62:8080/vitorhugo/123456/130
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 1 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 1 FHD
+http://51.89.98.62:8080/vitorhugo/123456/49702
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 1 HD
+http://51.89.98.62:8080/vitorhugo/123456/49701
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Sala" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Sala
+http://51.89.98.62:8080/vitorhugo/123456/50413
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Quarto Lollipop" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Quarto Lollipop
+http://51.89.98.62:8080/vitorhugo/123456/50412
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Quarto Grunge" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Quarto Grunge
+http://51.89.98.62:8080/vitorhugo/123456/50411
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Jardim" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Jardim
+http://51.89.98.62:8080/vitorhugo/123456/50409
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Confessionário" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Confessionário
+http://51.89.98.62:8080/vitorhugo/123456/50408
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Banheiro" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Banheiro
+http://51.89.98.62:8080/vitorhugo/123456/50407
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 2 HD
+http://51.89.98.62:8080/vitorhugo/123456/50014
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB 2 SD
+http://51.89.98.62:8080/vitorhugo/123456/50015
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Mosaico HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Mosaico HD
+http://51.89.98.62:8080/vitorhugo/123456/50012
+#EXTINF:-1 tvg-id="bbbbigbrother.br" tvg-name="BBB Mosaico SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais I Reality - BBB 22",BBB Mosaico SD
+http://51.89.98.62:8080/vitorhugo/123456/50013
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="http://srv.maxptv.net:8080/images/9dce6cb9c19c0c99d595e81204256043.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 1 HD
+http://51.89.98.62:8080/vitorhugo/123456/51087
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 SD" tvg-logo="http://srv.maxptv.net:8080/images/9dce6cb9c19c0c99d595e81204256043.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 1 SD
+http://51.89.98.62:8080/vitorhugo/123456/51088
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 HD" tvg-logo="http://srv.maxptv.net:8080/images/3e63903d3a9de3de767c6bff73063f60.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 2 HD
+http://51.89.98.62:8080/vitorhugo/123456/51089
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 SD" tvg-logo="http://srv.maxptv.net:8080/images/3e63903d3a9de3de767c6bff73063f60.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 2 SD
+http://51.89.98.62:8080/vitorhugo/123456/51090
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network FHD
+http://51.89.98.62:8080/vitorhugo/123456/20267
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network HD
+http://51.89.98.62:8080/vitorhugo/123456/524
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network SD
+http://51.89.98.62:8080/vitorhugo/123456/204
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax FHD
+http://51.89.98.62:8080/vitorhugo/123456/36589
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax HD
+http://51.89.98.62:8080/vitorhugo/123456/203
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax SD
+http://51.89.98.62:8080/vitorhugo/123456/202
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate FHD
+http://51.89.98.62:8080/vitorhugo/123456/19526
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate HD
+http://51.89.98.62:8080/vitorhugo/123456/201
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate SD
+http://51.89.98.62:8080/vitorhugo/123456/200
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central FHD
+http://51.89.98.62:8080/vitorhugo/123456/20263
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central HD
+http://51.89.98.62:8080/vitorhugo/123456/199
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central SD
+http://51.89.98.62:8080/vitorhugo/123456/198
+#EXTINF:-1 tvg-id="" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="http://sbocs.no-ip.net/logo/suamae.png" group-title="Canais |  24 HORAS",Como eu Conheci a Sua Mae  24H
+http://51.89.98.62:8080/vitorhugo/123456/567
+#EXTINF:-1 tvg-id="conmeboltv1.br" tvg-name="Conmebol TV 1 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 1 HD
+http://51.89.98.62:8080/vitorhugo/123456/18835
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 1 SD
+http://51.89.98.62:8080/vitorhugo/123456/19039
+#EXTINF:-1 tvg-id="conmeboltv2.br" tvg-name="Conmebol TV 2 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 HD
+http://51.89.98.62:8080/vitorhugo/123456/18836
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 2 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 SD
+http://51.89.98.62:8080/vitorhugo/123456/19040
+#EXTINF:-1 tvg-id="conmeboltv3.br" tvg-name="Conmebol TV 3 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 HD
+http://51.89.98.62:8080/vitorhugo/123456/18837
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 3 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 SD
+http://51.89.98.62:8080/vitorhugo/123456/19041
+#EXTINF:-1 tvg-id="conmeboltv4.br" tvg-name="Conmebol TV 4 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 HD
+http://51.89.98.62:8080/vitorhugo/123456/18838
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 4 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 SD
+http://51.89.98.62:8080/vitorhugo/123456/19042
+#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="Disney Channel  HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel  HD
+http://51.89.98.62:8080/vitorhugo/123456/179
+#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="Disney Channel FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel FHD
+http://51.89.98.62:8080/vitorhugo/123456/20226
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyxd.png" group-title="Canais | INFANTIL",Disney XD HD
+http://51.89.98.62:8080/vitorhugo/123456/175
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 HD
+http://51.89.98.62:8080/vitorhugo/123456/167
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 SD
+http://51.89.98.62:8080/vitorhugo/123456/166
+#EXTINF:-1 tvg-id="espn+.br" tvg-name="ESPN  3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 HD
+http://51.89.98.62:8080/vitorhugo/123456/171
+#EXTINF:-1 tvg-id="espn+.br" tvg-name="ESPN  3 SD " tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 SD 
+http://51.89.98.62:8080/vitorhugo/123456/170
+#EXTINF:-1 tvg-id="espn+.br" tvg-name="ESPN 4 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 FHD
+http://51.89.98.62:8080/vitorhugo/123456/20310
+#EXTINF:-1 tvg-id="FoxSportsBrasil.us" tvg-name="ESPN 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 HD
+http://51.89.98.62:8080/vitorhugo/123456/147
+#EXTINF:-1 tvg-id="FoxSportsBrasil.us" tvg-name="ESPN 4 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 SD
+http://51.89.98.62:8080/vitorhugo/123456/146
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn Extra  SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra  SD
+http://51.89.98.62:8080/vitorhugo/123456/164
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn Extra HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra HD
+http://51.89.98.62:8080/vitorhugo/123456/165
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN HD
+http://51.89.98.62:8080/vitorhugo/123456/27272
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN SD
+http://51.89.98.62:8080/vitorhugo/123456/27273
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a Patroa e as Criancas (2001)" tvg-logo="http://srv.maxptv.net:8080/images/70f133995270622dc6cb6d4b8287ccd3.png" group-title="Canais |  24 HORAS",Eu, a Patroa e as Criancas (2001)
+http://51.89.98.62:8080/vitorhugo/123456/42946
+#EXTINF:-1 tvg-id="Eurochannel.us" tvg-name="Eurochannel HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/eurochannel.png" group-title="Canais I CORTESIA",Eurochannel HD
+http://51.89.98.62:8080/vitorhugo/123456/48340
+#EXTINF:-1 tvg-id="Eurochannel.us" tvg-name="Eurochannel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/eurochannel.png" group-title="Canais I CORTESIA",Eurochannel SD
+http://51.89.98.62:8080/vitorhugo/123456/48341
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX Sports 2 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",FOX Sports 2 FHD
+http://51.89.98.62:8080/vitorhugo/123456/20311
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 HD
+http://51.89.98.62:8080/vitorhugo/123456/529
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 SD
+http://51.89.98.62:8080/vitorhugo/123456/148
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX FHD
+http://51.89.98.62:8080/vitorhugo/123456/20275
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX HD
+http://51.89.98.62:8080/vitorhugo/123456/145
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SP HD
+http://51.89.98.62:8080/vitorhugo/123456/50267
+#EXTINF:-1 tvg-id="HBO2Brasil.us" tvg-name="HBO 2 FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+http://51.89.98.62:8080/vitorhugo/123456/19528
+#EXTINF:-1 tvg-id="HBO2Brasil.us" tvg-name="HBO 2 HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+http://51.89.98.62:8080/vitorhugo/123456/135
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+http://51.89.98.62:8080/vitorhugo/123456/19530
+#EXTINF:-1 tvg-id="HBOFamilyBrasil.us" tvg-name="HBO Family HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://51.89.98.62:8080/vitorhugo/123456/133
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+http://51.89.98.62:8080/vitorhugo/123456/132
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO FHD
+http://51.89.98.62:8080/vitorhugo/123456/19527
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO HD
+http://51.89.98.62:8080/vitorhugo/123456/131
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 01 -  Palmeiras x Corinthians" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax1.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 01 -  Palmeiras x Corinthians
+http://51.89.98.62:8080/vitorhugo/123456/47759
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax2.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 02 
+http://51.89.98.62:8080/vitorhugo/123456/47761
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03 -  Palmeiras x Corinthians" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax3.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 03 -  Palmeiras x Corinthians
+http://51.89.98.62:8080/vitorhugo/123456/47760
+#EXTINF:-1 tvg-id="HBOMundiBrasil.us" tvg-name="HBO Mundi FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
+http://51.89.98.62:8080/vitorhugo/123456/20316
+#EXTINF:-1 tvg-id="HBOMundiBrasil.us" tvg-name="HBO Mundi HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
+http://51.89.98.62:8080/vitorhugo/123456/521
+#EXTINF:-1 tvg-id="HBOMundiBrasil.us" tvg-name="HBO Mundi SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
+http://51.89.98.62:8080/vitorhugo/123456/112
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+http://51.89.98.62:8080/vitorhugo/123456/19529
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+http://51.89.98.62:8080/vitorhugo/123456/128
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+http://51.89.98.62:8080/vitorhugo/123456/127
+#EXTINF:-1 tvg-id="HBOPopBrasil.us" tvg-name="HBO Pop FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
+http://51.89.98.62:8080/vitorhugo/123456/19532
+#EXTINF:-1 tvg-id="HBOPopBrasil.us" tvg-name="HBO Pop HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
+http://51.89.98.62:8080/vitorhugo/123456/111
+#EXTINF:-1 tvg-id="HBOPopBrasil.us" tvg-name="HBO Pop SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD
+http://51.89.98.62:8080/vitorhugo/123456/110
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO SD
+http://51.89.98.62:8080/vitorhugo/123456/126
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+http://51.89.98.62:8080/vitorhugo/123456/19531
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+http://51.89.98.62:8080/vitorhugo/123456/531
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+http://51.89.98.62:8080/vitorhugo/123456/124
+#EXTINF:-1 tvg-id="HBOXtremeBrasil.us" tvg-name="HBO Xtreme FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
+http://51.89.98.62:8080/vitorhugo/123456/20317
+#EXTINF:-1 tvg-id="HBOXtremeBrasil.us" tvg-name="HBO Xtreme HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
+http://51.89.98.62:8080/vitorhugo/123456/520
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon FHD
+http://51.89.98.62:8080/vitorhugo/123456/20313
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon HD
+http://51.89.98.62:8080/vitorhugo/123456/93
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon SD
+http://51.89.98.62:8080/vitorhugo/123456/92
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel FHD
+http://51.89.98.62:8080/vitorhugo/123456/20264
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel HD
+http://51.89.98.62:8080/vitorhugo/123456/91
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel SD
+http://51.89.98.62:8080/vitorhugo/123456/90
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy FHD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais | [XXX] ADULTO",Playboy FHD
+http://51.89.98.62:8080/vitorhugo/123456/20315
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy HD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais | [XXX] ADULTO",Playboy HD
+http://51.89.98.62:8080/vitorhugo/123456/88
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD
+http://51.89.98.62:8080/vitorhugo/123456/86
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD²
+http://51.89.98.62:8080/vitorhugo/123456/247
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 HD³" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD³
+http://51.89.98.62:8080/vitorhugo/123456/46681
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 SD
+http://51.89.98.62:8080/vitorhugo/123456/85
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD
+http://51.89.98.62:8080/vitorhugo/123456/13216
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD²
+http://51.89.98.62:8080/vitorhugo/123456/1462
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 SD
+http://51.89.98.62:8080/vitorhugo/123456/83
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD
+http://51.89.98.62:8080/vitorhugo/123456/82
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD²
+http://51.89.98.62:8080/vitorhugo/123456/1463
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 SD
+http://51.89.98.62:8080/vitorhugo/123456/81
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD
+http://51.89.98.62:8080/vitorhugo/123456/80
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD²
+http://51.89.98.62:8080/vitorhugo/123456/1464
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 SD
+http://51.89.98.62:8080/vitorhugo/123456/79
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD
+http://51.89.98.62:8080/vitorhugo/123456/78
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD²
+http://51.89.98.62:8080/vitorhugo/123456/1465
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 SD
+http://51.89.98.62:8080/vitorhugo/123456/77
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 HD
+http://51.89.98.62:8080/vitorhugo/123456/76
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 SD
+http://51.89.98.62:8080/vitorhugo/123456/75
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD
+http://51.89.98.62:8080/vitorhugo/123456/74
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD²
+http://51.89.98.62:8080/vitorhugo/123456/1467
+#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-name="Record HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record HD
+http://51.89.98.62:8080/vitorhugo/123456/240
+#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-name="Record HD 2" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record HD 2
+http://51.89.98.62:8080/vitorhugo/123456/68
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",SBT HD
+http://51.89.98.62:8080/vitorhugo/123456/59
+#EXTINF:-1 tvg-id="sextreme.br" tvg-name="Sextreme HD" tvg-logo="http://sbocs.no-ip.net/logo2/sextreme.png" group-title="Canais | [XXX] ADULTO",Sextreme HD
+http://51.89.98.62:8080/vitorhugo/123456/57
+#EXTINF:-1 tvg-id="sextreme.br" tvg-name="Sextreme SD" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="Canais | [XXX] ADULTO",Sextreme SD
+http://51.89.98.62:8080/vitorhugo/123456/56
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="Sexy Hot HD" tvg-logo="http://sbocs.no-ip.net/logo2/sexyhot.png" group-title="Canais | [XXX] ADULTO",Sexy Hot HD
+http://51.89.98.62:8080/vitorhugo/123456/55
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="Sexy Hot SD" tvg-logo="http://sbocs.no-ip.net/logo2/sexyhot.png" group-title="Canais | [XXX] ADULTO",Sexy Hot SD
+http://51.89.98.62:8080/vitorhugo/123456/54
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel FHD
+http://51.89.98.62:8080/vitorhugo/123456/20233
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel HD
+http://51.89.98.62:8080/vitorhugo/123456/53
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel SD
+http://51.89.98.62:8080/vitorhugo/123456/52
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space FHD
+http://51.89.98.62:8080/vitorhugo/123456/20271
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space HD
+http://51.89.98.62:8080/vitorhugo/123456/51
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space SD
+http://51.89.98.62:8080/vitorhugo/123456/50
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 HD
+http://51.89.98.62:8080/vitorhugo/123456/47
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 SD
+http://51.89.98.62:8080/vitorhugo/123456/46
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 HD
+http://51.89.98.62:8080/vitorhugo/123456/45
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 SD
+http://51.89.98.62:8080/vitorhugo/123456/44
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV HD
+http://51.89.98.62:8080/vitorhugo/123456/49
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV SD
+http://51.89.98.62:8080/vitorhugo/123456/48
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="Star Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel FHD
+http://51.89.98.62:8080/vitorhugo/123456/20274
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel HD
+http://51.89.98.62:8080/vitorhugo/123456/157
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="Star Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel SD
+http://51.89.98.62:8080/vitorhugo/123456/150
+#EXTINF:-1 tvg-id="starlife.br" tvg-name="Star Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life FHD
+http://51.89.98.62:8080/vitorhugo/123456/20245
+#EXTINF:-1 tvg-id="starlife.br" tvg-name="Star Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life HD
+http://51.89.98.62:8080/vitorhugo/123456/156
+#EXTINF:-1 tvg-id="starlife.br" tvg-name="Star Life SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life SD
+http://51.89.98.62:8080/vitorhugo/123456/155
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus HD
+http://51.89.98.62:8080/vitorhugo/123456/46598
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus SD" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus SD
+http://51.89.98.62:8080/vitorhugo/123456/46599
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES",Studio Universal HD
+http://51.89.98.62:8080/vitorhugo/123456/43
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES",Studio Universal SD
+http://51.89.98.62:8080/vitorhugo/123456/42
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy FHD
+http://51.89.98.62:8080/vitorhugo/123456/20255
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy HD
+http://51.89.98.62:8080/vitorhugo/123456/41
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy SD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy SD
+http://51.89.98.62:8080/vitorhugo/123456/40
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS FHD
+http://51.89.98.62:8080/vitorhugo/123456/20268
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS HD
+http://51.89.98.62:8080/vitorhugo/123456/39
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS SD
+http://51.89.98.62:8080/vitorhugo/123456/38
+#EXTINF:-1 tvg-id="TCMBrasil.us" tvg-name="TCM HD" tvg-logo="http://sbocs.no-ip.net/logo2/tcm.png" group-title="Canais | FILMES",TCM HD
+http://51.89.98.62:8080/vitorhugo/123456/37
+#EXTINF:-1 tvg-id="TCMBrasil.us" tvg-name="TCM SD" tvg-logo="http://sbocs.no-ip.net/logo2/tcm.png" group-title="Canais | FILMES",TCM SD
+http://51.89.98.62:8080/vitorhugo/123456/36
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action FHD
+http://51.89.98.62:8080/vitorhugo/123456/20247
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action HD
+http://51.89.98.62:8080/vitorhugo/123456/35
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action SD
+http://51.89.98.62:8080/vitorhugo/123456/34
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult FHD
+http://51.89.98.62:8080/vitorhugo/123456/20246
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult HD
+http://51.89.98.62:8080/vitorhugo/123456/33
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult SD
+http://51.89.98.62:8080/vitorhugo/123456/32
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun FHD
+http://51.89.98.62:8080/vitorhugo/123456/20248
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun HD
+http://51.89.98.62:8080/vitorhugo/123456/31
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun SD
+http://51.89.98.62:8080/vitorhugo/123456/30
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca FHD
+http://51.89.98.62:8080/vitorhugo/123456/20230
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca HD
+http://51.89.98.62:8080/vitorhugo/123456/29
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca SD
+http://51.89.98.62:8080/vitorhugo/123456/28
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium FHD
+http://51.89.98.62:8080/vitorhugo/123456/20228
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium HD
+http://51.89.98.62:8080/vitorhugo/123456/27
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium SD
+http://51.89.98.62:8080/vitorhugo/123456/26
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch FHD
+http://51.89.98.62:8080/vitorhugo/123456/20229
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch HD
+http://51.89.98.62:8080/vitorhugo/123456/25
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch SD
+http://51.89.98.62:8080/vitorhugo/123456/24
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT HD
+http://51.89.98.62:8080/vitorhugo/123456/21
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD²" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT HD²
+http://51.89.98.62:8080/vitorhugo/123456/13873
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT SD
+http://51.89.98.62:8080/vitorhugo/123456/20
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries FHD
+http://51.89.98.62:8080/vitorhugo/123456/20269
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries HD
+http://51.89.98.62:8080/vitorhugo/123456/517
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries SD
+http://51.89.98.62:8080/vitorhugo/123456/18
+#EXTINF:-1 tvg-id="UniversalTVBrasil.us" tvg-name="Universal Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel FHD
+http://51.89.98.62:8080/vitorhugo/123456/20249
+#EXTINF:-1 tvg-id="UniversalTVBrasil.us" tvg-name="Universal Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel HD
+http://51.89.98.62:8080/vitorhugo/123456/13215
+#EXTINF:-1 tvg-id="UniversalTVBrasil.us" tvg-name="Universal Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel SD
+http://51.89.98.62:8080/vitorhugo/123456/11
+#EXTINF:-1 tvg-id="" tvg-name="Vampirina (2017)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Vampirina (2017)
+http://51.89.98.62:8080/vitorhugo/123456/49775
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais | [XXX] ADULTO",Venus HD
+http://51.89.98.62:8080/vitorhugo/123456/10
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel HD+
+http://51.89.98.62:8080/vitorhugo/123456/20232
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel HD
+http://51.89.98.62:8080/vitorhugo/123456/4
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel SD
+http://51.89.98.62:8080/vitorhugo/123456/3
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/wohoo.png" group-title="Canais | VARIEDADES",Woohoo HD
+http://51.89.98.62:8080/vitorhugo/123456/207
