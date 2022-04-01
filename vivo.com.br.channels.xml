@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" site="vivo.com.br">
   <channels>
     <channel update="i" site="vivo.com.br" site_id="LCH150" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
     <channel update="i" site="vivo.com.br" site_id="LCH4104" xmltv_id="Agro+">Agro+</channel>
