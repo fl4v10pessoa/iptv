@@ -134,8 +134,8 @@
       "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
       "SNI": "content.akross.com.br",
       "TlsIP": "content.akross.com.br",
-      "ProxyIP": "104.21.55.8",
-      "ProxyPort": "443",
+      "ProxyIP": "",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
