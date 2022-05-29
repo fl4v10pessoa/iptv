@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/fl4v10pessoa/iptv/main/update",
   "Sms": "xxx",
@@ -9,6 +9,12 @@
   "CheckUser": "true",
   "Udp": [
     {
+      "Porta": "7100"
+    },
+    {
+      "Porta": "7200"
+    },
+    {
       "Porta": "7300"
     },
     {
@@ -16,12 +22,6 @@
     },
     {
       "Porta": "7500"
-    },
-    {
-      "Porta": "7600"
-    },
-    {
-      "Porta": "7700"
     }
   ],
   "Servers": [
@@ -29,9 +29,9 @@
       "Name": "GIGANET | BRASIL",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "azu.gatonetvpn.xyz",
-      "CheckUser": "xx",
-      "ServerPort": "443",
+      "ServerIP": "aws.gatonetvpn.xyz",
+      "CheckUser": "http://18.228.245.239:5454/checkUser",
+      "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -41,39 +41,39 @@
     {
       "Name": "VIVO 01",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: aws.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
+      "ProxyIP": "104.18.6.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "VIVO 02",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "azu.gatonetvpn.xyz",
-      "TlsIP": "104.18.7.80",
+      "Payload": "GET / HTTP/1.1[crlf]Host: aws.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 01",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdnjs.cloudflare.com [protocol][crlf]Host: azu.gatonetvpn.xyz[crlf]X-Forwarded-For: azu.gatonetvpn.xyz[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "104.16.19.94",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM 01",
-      "FLAG": "tim",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: azu.gatonetvpn.xyz[crlf]X-Forwarded-For: azu.gatonetvpn.xyz[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "",
-      "ProxyIP": "104.16.19.94",
-      "ProxyPort": "443",
-      "Info": "Proxy"
-    },
-    {
       "Name": "TIM 02",
       "FLAG": "tim",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
+      "SNI": "emartim.com.br",
+      "TlsIP": "emartim.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -99,37 +99,17 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM 05",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "azu.gatonetvpn.xyz",
-      "TlsIP": "104.16.19.94",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
       "Name": "CLARO 01",
       "FLAG": "claro",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "Payload": "GET ws://boom4u.com.br HTTP/1.1\nHost: aws.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
+      "SNI": "boom4u.com.br",
+      "TlsIP": "boom4u.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
       "Name": "CLARO 02",
-      "FLAG": "claro",
-      "Payload": "GET ws://parceirosclaro.com.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "parceirosclaro.com.br",
-      "TlsIP": "parceirosclaro.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "CLARO 03",
       "FLAG": "claro",
       "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
       "SNI": "content.akross.com.br",
@@ -139,21 +119,11 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "OI 01",
+      "Name": "OI",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.56.6",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "OI 02",
-      "FLAG": "oi",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "Payload": "GET wss://www.hbogo.com.br HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "www.hbogo.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
