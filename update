@@ -29,7 +29,7 @@
       "Name": "GIGANET | BRASIL",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "aws.gatonetvpn.xyz",
+      "ServerIP": "azu.gatonetvpn.xyz",
       "CheckUser": "http://18.228.245.239:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
