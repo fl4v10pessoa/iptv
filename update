@@ -101,9 +101,9 @@
     {
       "Name": "CLARO 01",
       "FLAG": "claro",
-      "Payload": "GET ws://boom4u.com.br HTTP/1.1\nHost: aws.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "boom4u.com.br",
-      "TlsIP": "boom4u.com.br",
+      "Payload": "GET ws://api.new.livestream.com HTTP/1.1\nHost: aws.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
+      "SNI": "api.new.livestream.com",
+      "TlsIP": "api.new.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
