@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "",
+  "Version": "1.0.6",
+  "ReleaseNotes": "Conexão CLARO restabelecida",
   "UrlUpdate": "https://raw.githubusercontent.com/fl4v10pessoa/iptv/main/update",
   "Sms": "xxx",
   "EmailFeedback": "fl4v10pe550a@gmail.com",
@@ -101,9 +101,9 @@
     {
       "Name": "CLARO 01",
       "FLAG": "claro",
-      "Payload": "GET ws://api.new.livestream.com HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "api.new.livestream.com",
-      "TlsIP": "api.new.livestream.com",
+      "Payload": "GET ws://vimeo.livestream.com HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
+      "SNI": "vimeo.livestream.com",
+      "TlsIP": "vimeo.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
