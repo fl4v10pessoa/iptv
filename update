@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.6",
+  "Version": "1.0.9",
   "ReleaseNotes": "Conexão CLARO restabelecida. Faça a atualização para voltar a conectar na Claro",
   "UrlUpdate": "https://raw.githubusercontent.com/fl4v10pessoa/iptv/main/update",
   "Sms": "xxx",
@@ -30,7 +30,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "azu.gatonetvpn.xyz",
-      "CheckUser": "http://18.228.245.239:5454/checkUser",
+      "CheckUser": "http://209.14.70.15:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -41,19 +41,19 @@
     {
       "Name": "VIVO 01",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "162.159.136.63",
+      "ProxyIP": "172.67.165.43",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "VIVO 02",
       "FLAG": "vivo",
-      "Payload": "GET ws://celular.vivo.com.br HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "celular.vivo.com.br",
-      "TlsIP": "celular.vivo.com.br",
+      "Payload": "GET ws://vivo360.vivo.com.br HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vivo360.vivo.com.br",
+      "TlsIP": "172.67.165.43",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
