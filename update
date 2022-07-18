@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.9",
-  "ReleaseNotes": "Conexão VIVO restabelecida. Faça a atualização para voltar a conectar na Vivo.",
+  "Version": "1.0.10",
+  "ReleaseNotes": "Conexão CLARO restabelecida. Faça a atualização para voltar a conectar na CLARO.",
   "UrlUpdate": "https://raw.githubusercontent.com/fl4v10pessoa/iptv/main/update",
   "Sms": "xxx",
   "EmailFeedback": "fl4v10pe550a@gmail.com",
@@ -61,9 +61,9 @@
     {
       "Name": "TIM 01",
       "FLAG": "tim",
-      "Payload": "GET wss://cdnjs.cloudflare.com [protocol][crlf]Host: azu.gatonetvpn.xyz[crlf]X-Forwarded-For: azu.gatonetvpn.xyz[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cdnjs.cloudflare.com",
-      "TlsIP": "104.16.19.94",
+      "Payload": "GET wss://www.alura.com [protocol][crlf]Host: azu.gatonetvpn.xyz[crlf]X-Forwarded-For: azu.gatonetvpn.xyz[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.alura.com",
+      "TlsIP": "www.alura.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -101,9 +101,9 @@
     {
       "Name": "CLARO 01",
       "FLAG": "claro",
-      "Payload": "GET ws://vimeo.livestream.com HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "vimeo.livestream.com",
-      "TlsIP": "vimeo.livestream.com",
+      "Payload": "GET ws://4.icanhazip.com HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
+      "SNI": "4.icanhazip.com",
+      "TlsIP": "4.icanhazip.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
