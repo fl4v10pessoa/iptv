@@ -1,6 +1,6 @@
 {
   "Version": "1.0.10",
-  "ReleaseNotes": "Conexão CLARO restabelecida. Faça a atualização para voltar a conectar na CLARO.",
+  "ReleaseNotes": "Conexão CLARO restabelecida. Faça a atualização para voltar a conectar na CLARO",
   "UrlUpdate": "https://raw.githubusercontent.com/fl4v10pessoa/iptv/main/update",
   "Sms": "xxx",
   "EmailFeedback": "fl4v10pe550a@gmail.com",
@@ -61,9 +61,9 @@
     {
       "Name": "TIM 01",
       "FLAG": "tim",
-      "Payload": "GET wss://www.alura.com [protocol][crlf]Host: azu.gatonetvpn.xyz[crlf]X-Forwarded-For: azu.gatonetvpn.xyz[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "www.alura.com",
-      "TlsIP": "www.alura.com",
+      "Payload": "GET wss://static.r4you.co [protocol][crlf]Host: azu.gatonetvpn.xyz[crlf]X-Forwarded-For: azu.gatonetvpn.xyz[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "static.r4you.co",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -71,9 +71,9 @@
     {
       "Name": "TIM 02",
       "FLAG": "tim",
-      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
-      "SNI": "emartim.com.br",
-      "TlsIP": "emartim.com.br",
+      "Payload": "GET ws://www.alura.com.br HTTP/1.1\nHost: azu.gatonetvpn.xyz\nUpgrade: WebSocket\n\n",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "www.alura.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
