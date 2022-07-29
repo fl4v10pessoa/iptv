@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.11",
+  "Version": "1.0.13",
   "ReleaseNotes": "Conexão VIVO restabelecida. Faça a atualização para voltar a conectar na VIVO",
   "UrlUpdate": "https://raw.githubusercontent.com/fl4v10pessoa/iptv/main/update",
   "Sms": "xxx",
@@ -57,6 +57,36 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO 03",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO 04",
+      "FLAG": "vivo",
+      "Payload": "GET ws://vivo360.vivo.com.br HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vivo360.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO 05",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: j23r20ju4b.map.azionedge.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "j23r20ju4b.map.azionedge.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "TIM 01",
