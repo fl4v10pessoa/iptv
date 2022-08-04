@@ -64,7 +64,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "104.16.56.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -81,10 +81,10 @@
     {
       "Name": "VIVO 05",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: j23r20ju4b.map.azionedge.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: azu.gatonetvpn.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "j23r20ju4b.map.azionedge.net",
+      "ProxyIP": "104.16.56.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
