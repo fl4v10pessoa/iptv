@@ -1,0 +1,74 @@
+{
+  "name": "Listview",
+  "metadata-version": 1,
+  "author": "Thiago Cavalcanti",
+  "platforms": [
+    "Kodular"
+  ],
+  "keys": [
+    "id",
+    "nome",
+    "categoria",
+    "imagem"
+  ],
+  "components": [
+    {
+      "id": "vert_{id}",
+      "type": "VerticalArrangement",
+      "properties": {
+        "Height": -2,
+        "Width": 196,
+        "AlignHorizontal": 3
+      },
+      "components": [
+        {
+          "id": "{id}",
+          "type": "MakeroidCardView",
+          "properties": {
+            "Height": -2,
+            "Width": -2,
+            "ContentPaddingBottom": 0,
+            "ContentPaddingTop": 0,
+            "ContentPaddingRight": 0,
+            "ContentPaddingLeft": 0,
+            "CornerRadius": 16,
+            "Elevation": 0
+          },
+          "components": [
+            {
+              "id": "img_{id}",
+              "type": "Image",
+              "properties": {
+                "Height": -2,
+                "Width": -2,
+                "Picture": "{imagem}"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nome_{id}",
+          "type": "Label",
+          "properties": {
+            "Width": 176,
+            "TextColor": -12303292,
+            "FontTypefaceImport": "montserrat-semi-bold.ttf",
+            "FontSize": 14,
+            "Text": "{nome}"
+          }
+        },
+        {
+          "id": "cat_{id}",
+          "type": "Label",
+          "properties": {
+            "Width": 176,
+            "TextColor": -6381922,
+            "FontTypefaceImport": "Montserrat-Medium.ttf",
+            "FontSize": 12,
+            "Text": "{categoria}"
+          }
+        }
+      ]
+    }
+  ]
+}
