@@ -6,19 +6,19 @@ https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg" group-title="MENU",Todas os canais SEM TRAVAS  24hs: [COLOR red][B]37-9.91253261 zapDOFormiga[/B][/COLOR]
 https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title=" TELECINE",TELECINE ACTION [ALT]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title="TELECINE",TELECINE ACTION [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1154044.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title=" TELECINE",TELECINE TOUCH [ALT]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title="TELECINE",TELECINE TOUCH [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/14971.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title=" TELECINE",TELECINE PIPOCA HD [ALT]
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title="TELECINE",TELECINE PIPOCA HD [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/14957.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP [ALT]" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title=" REDE GLOBO",GLOBO SP [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1541630.m3u8
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="HBO",HBO [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1542358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title=" HBO",HBO 2 HD [ALT]
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="HBO",HBO 2 HD [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1542348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title=" HBO",HBO PLUS [ALT]
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="HBO",HBO PLUS [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1542368.m3u8
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [ALT]" tvg-logo="https://i.imgur.com/cUNG4Wm.png" group-title=" DOCUMENTÁRIOS",Discovery Channel [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1154046.m3u8
