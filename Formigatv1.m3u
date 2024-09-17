@@ -22,15 +22,15 @@ http://190.102.43.113:80/Formigatv/offilinetv2145/1542348.m3u8
 http://190.102.43.113:80/Formigatv/offilinetv2145/1542368.m3u8
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [ALT]" tvg-logo="https://i.imgur.com/cUNG4Wm.png" group-title=" DOCUMENTÁRIOS",Discovery Channel [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1154046.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX [ALT]" tvg-logo="https://i.imgur.com/A447m0E.png" group-title="✔️ FILMES E SÉRIES",MEGAPIX [ALT]
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX [ALT]" tvg-logo="https://i.imgur.com/A447m0E.png" group-title=" FILMES E SÉRIES",MEGAPIX [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1154042.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE [ALT]" tvg-logo="https://i.imgur.com/igxmydO.png" group-title="✔️ FILMES E SÉRIES",SPACE [ALT]
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE [ALT]" tvg-logo="https://i.imgur.com/igxmydO.png" group-title=" FILMES E SÉRIES",SPACE [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1154047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD [ALT]" tvg-logo="https://i.imgur.com/oEo3tyD.png" group-title="✔️ FILMES E SÉRIES",A&E HD [ALT]
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD [ALT]" tvg-logo="https://i.imgur.com/oEo3tyD.png" group-title=" FILMES E SÉRIES",A&E HD [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1542096.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC [ALT]" tvg-logo="https://i.imgur.com/eMaIj93.png" group-title="✔️ FILMES E SÉRIES",AMC [ALT]
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC [ALT]" tvg-logo="https://i.imgur.com/eMaIj93.png" group-title=" FILMES E SÉRIES",AMC [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/1154048.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [ALT]" tvg-logo="https://i.imgur.com/qXcFmLZ.png" group-title="✔️ TNT FILMES E ESPORTES",TNT [ALT]
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [ALT]" tvg-logo="https://i.imgur.com/qXcFmLZ.png" group-title=" TNT FILMES E ESPORTES",TNT [ALT]
 http://190.102.43.113:80/Formigatv/offilinetv2145/8911.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="✔️ REDE BAND",BAND SD
 http://190.102.43.113:80/Formigatv/offilinetv2145/948295.m3u8
